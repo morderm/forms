@@ -1,0 +1,4 @@
+.questionCreateDiv{
+    display: flex;
+    flex-wrap: wrap;
+}
